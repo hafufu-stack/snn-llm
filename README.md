@@ -160,12 +160,11 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ---
 
-## 👤 Author
 
-**Hiroto Funasaki (roll)**
-- GitHub: [@hafufu-stack](https://github.com/hafufu-stack)
-- ORCID: [0009-0004-2517-0177](https://orcid.org/0009-0004-2517-0177)
-- Zenn: [@cell_activation](https://zenn.dev/cell_activation)
+## 👤 Author
+ろーる ([@hafufu-stack](https://github.com/hafufu-stack))
+*   **note**：[https://note.com/cell_activation](https://note.com/cell_activation)
+*   **Zenn**：[https://zenn.dev/cell_activation](https://zenn.dev/cell_activation)
 
 ---
 
