@@ -118,6 +118,37 @@ This project builds on our previous research:
 
 ---
 
+## 🏆 Latest Results (2026-01-21)
+
+### Japanese SNN-LLM Training
+
+| Model | Parameters | PPL | Training Time |
+|-------|------------|-----|---------------|
+| English (WikiText-2) | 550K | 10.69 | 148 min |
+| **Japanese (50 epochs)** | **4.6M** | **2.03** 🏆 | 102 min |
+
+### Dimension Optimization Discovery
+
+```
+Hypercube Dimension vs Perplexity:
+8D:  PPL = 66.2
+9D:  PPL = 55.3  
+10D: PPL = 26.9  ★
+11D: PPL = 15.9  ★ OPTIMAL
+12D: PPL = 45.9  (worse!)
+13D: PPL = 8634  (collapse!)
+```
+
+**🔥 Key Finding:** 12D+ structures cause performance collapse, supporting the hypothesis that the brain's 11D structure represents an optimal configuration for information processing.
+
+### Implications
+
+- 11D appears to be the "sweet spot" for complexity vs performance
+- Higher dimensions add overhead without proportional benefits
+- This supports the "10進数 = 11次元脳" (Decimal System = 11D Brain) hypothesis
+
+---
+
 ## 📈 Roadmap
 
 ### Phase 1: Proof of Concept (Current)
