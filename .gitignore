@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Papers (upload manually to Zenodo)
+papers/
+*.zip
+
+# Draft files
+*_draft.*
+
+# Model checkpoints (too large for GitHub)
+checkpoints/*.pkl
+checkpoints/*.pt
+
+# Keep tokenizer files
+!checkpoints/tokenizer_*.json
