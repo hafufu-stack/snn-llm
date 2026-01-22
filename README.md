@@ -179,15 +179,25 @@ Hypercube Dimension vs Perplexity:
 
 ---
 
-## 🤝 Contributing
+## 💖 Support This Research
 
-This is an experimental research project. Contributions, ideas, and discussions are welcome!
+If you find this project interesting, please consider supporting my research!
 
----
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge)](https://github.com/sponsors/hafufu-stack)
 
-## 📄 License
+I'm an independent researcher working on brain-inspired AI. Your sponsorship helps me:
+- 🔬 Continue full-time research on SNN language models
+- 📝 Write papers and documentation
+- 🛠️ Develop and maintain open-source tools
 
-MIT License - See [LICENSE](LICENSE) for details.
+### Sponsor Tiers
+
+| Tier | Benefits |
+|------|----------|
+| ☕ **Coffee** ($3/mo) | Name in README + Heartfelt thanks |
+| 🧠 **Supporter** ($10/mo) | Above + Early access to research updates |
+| 🚀 **Researcher** ($30/mo) | Above + Priority Q&A support |
+| ⭐ **Partner** ($100/mo) | Above + Research collaboration opportunities |
 
 ---
 
