@@ -1,0 +1,11 @@
+{
+  "perplexity": 1.015783359374143,
+  "avg_loss": 0.01566009745730521,
+  "top1_accuracy": 0.9907407407407407,
+  "top5_accuracy": 1.0,
+  "top10_accuracy": 1.0,
+  "distinct_1": 0.04666666666666667,
+  "distinct_2": 0.05016722408026756,
+  "repetition_rate": 0.0,
+  "unique_outputs_20": 1
+}

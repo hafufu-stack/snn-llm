@@ -1,0 +1,8 @@
+{
+  "epochs": 3000,
+  "final_loss": 0.5492976347292808,
+  "vocab_size": 359,
+  "corpus_size": 10000,
+  "dropout_rate": 0.25,
+  "training_time_hours": 1.01942938360903
+}

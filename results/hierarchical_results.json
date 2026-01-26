@@ -1,0 +1,8 @@
+{
+  "total_epochs": 10000,
+  "final_word_loss": 0.012774275673245223,
+  "final_char_loss": 1.637491455315087,
+  "word_vocab_size": 211,
+  "char_vocab_size": 275,
+  "training_time_hours": 2.2081207934353086
+}

@@ -1,0 +1,7 @@
+{
+  "epochs": 5000,
+  "final_loss": 0.009319284177944689,
+  "vocab_size": 211,
+  "params": 5490899,
+  "training_time_sec": 3226.384304046631
+}

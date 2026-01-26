@@ -1,0 +1,7 @@
+{
+  "method": "temporal_coding",
+  "num_encoding_neurons": 10,
+  "patterns_per_neuron": 2000,
+  "total_patterns": 8000000000.0,
+  "vocab_size": 4000
+}

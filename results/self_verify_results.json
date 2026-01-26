@@ -1,0 +1,12 @@
+{
+  "method": "self_verifying_generation",
+  "prompts": [
+    "人工知能は",
+    "日本語の",
+    "スパイキング",
+    "脳と",
+    "吾輩は"
+  ],
+  "regeneration_count": 0,
+  "total_generations": 5
+}
