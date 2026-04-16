@@ -202,7 +202,7 @@ I'm an independent researcher working on brain-inspired AI. Your sponsorship hel
 ---
 
 ## 👤 Author
-ろーる ([@hafufu-stack](https://github.com/hafufu-stack))
+Hiroto Funasaki ([@hafufu-stack](https://github.com/hafufu-stack))
 *   **note**：[https://note.com/cell_activation](https://note.com/cell_activation)
 *   **Zenn**：[https://zenn.dev/cell_activation](https://zenn.dev/cell_activation)
 
