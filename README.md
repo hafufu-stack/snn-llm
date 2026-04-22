@@ -177,29 +177,8 @@ Hypercube Dimension vs Perplexity:
 - [SNN Language Model](https://github.com/hafufu-stack/snn-language-model)
 - [SNN Comprypto](https://github.com/hafufu-stack/temporal-coding-simulation)
 
----
 
-## 💖 Support This Research
 
-If you find this project interesting, please consider supporting my research!
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge)](https://github.com/sponsors/hafufu-stack)
-
-I'm an independent researcher working on brain-inspired AI. Your sponsorship helps me:
-- 🔬 Continue full-time research on SNN language models
-- 📝 Write papers and documentation
-- 🛠️ Develop and maintain open-source tools
-
-### Sponsor Tiers
-
-| Tier | Benefits |
-|------|----------|
-| ☕ **Coffee** ($3/mo) | Name in README + Heartfelt thanks |
-| 🧠 **Supporter** ($10/mo) | Above + Early access to research updates |
-| 🚀 **Researcher** ($30/mo) | Above + Priority Q&A support |
-| ⭐ **Partner** ($100/mo) | Above + Research collaboration opportunities |
-
----
 
 ## 👤 Author
 Hiroto Funasaki ([@hafufu-stack](https://github.com/hafufu-stack))
